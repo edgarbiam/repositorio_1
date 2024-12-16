@@ -22,10 +22,6 @@ for i in range(num_dias_mes):
 print(num_lunes)
 
 
-4
-
- n = input("Indique valor  ")
-print(n)
 
 
 
