@@ -22,7 +22,7 @@ for i in range(num_dias_mes):
 print(num_lunes)
 
 
-
+# FIn de la primera parte
 
 
 from urllib.request import urlopen
